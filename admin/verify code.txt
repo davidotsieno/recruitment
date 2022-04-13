@@ -1,0 +1,2 @@
+
+<button class="btn btn-success"><a href="update.php?verify='.$row_Recordset1['IDNumber'].'" class="text-light">verify</a></button><br><br>
